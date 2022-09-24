@@ -20,7 +20,6 @@ public class HomeWorkApp {
         else {
             System.out.println(a +" a < b");
         }
-
     }
     private static void printColor() {
         int value = 10;
